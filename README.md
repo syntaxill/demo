@@ -1,7 +1,5 @@
 # Twitter Bootstrap
 
-#  
-
 ![Logo](https://bs-uploads.toptal.io/blackfish-uploads/components/open_graph_image/8959644/og_image/optimized/cover-0220_01_What-Is-Bootstrap_cover-8e5c58b8e1b95b4f4955011db48f763e.png)
 
 **Twitter Bootstrap** - Popular set of components for Frontend-development. Based on the following technologies.
